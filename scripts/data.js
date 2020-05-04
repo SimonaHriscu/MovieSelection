@@ -25,14 +25,14 @@ const movies = [
     title: "How to Steal a Million",
     description:
       "A woman who must steal a statue from a Paris museum to help conceal her father's art forgeries is assisted by a man.",
-    image: "../img/photo4.jpg",
+    image: "./img/photo4.jpg",
   },
   {
     id: 5,
     title: "Woman in Gold",
     description:
       "Maria Altmann, an octogenarian Jewish refugee, takes on the Austrian government to recover artwork she believes rightfully belongs to her family.",
-    image: "../img/photo5.jpg",
+    image: "./img/photo5.jpg",
   },
 ];
 

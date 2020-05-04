@@ -5,9 +5,12 @@
 <br>
 There should be visual feedback while hovering over the list items. Example, the list item’s background color should change to blue on hover.
 <br>
-*On click, the title, image and move description should update on the left side of the list items.
+
+* On click, the title, image and move description should update on the left side of the list items.
 <br>
+
 * On click, the list item should also be displayed with a different background color, e.g. red.
+
 <br>
 Instructions:
 <br>

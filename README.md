@@ -16,6 +16,14 @@ Instructions:
 Upload your favorite movie images and create your own design, write a function that adds and handles the dynamic pill behavior.
 Deploy this page on  Github pages
 
+
+## Development tools and frameworks used:
+<h1>
+<img src="https://imgur.com/T1TApg1.png" alt="React" width="20%">
+<img src="https://imgur.com/plyrZV7.png" alt="React" width="10%">
+</h1>
+
+
 ## Preview
 <br>
 
